@@ -1,5 +1,5 @@
 @echo off
-set PROJECT_HOME=C:\Users\mgarduno\Documents\Academia DATIO\Curso_SPARK\pyspark_for_dummies_and_experts
+set PROJECT_HOME=C:\Users\mgarduno\Documents\Academia_DATIO\Curso_SPARK\pyspark_for_dummies_and_experts
 pushd "%~dp0\..\"
 set PROG_HOME=%cd%
 popd
